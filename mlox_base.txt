@@ -39196,6 +39196,10 @@ Creatures (Semi).esp
 FleeAIFixes.esp
 Creatures.esp
 
+[Order]
+OAAB_Grazelands.esp
+The Northern Strongholds.esp
+
 ;;Dragon32: Arbitrary Order rule, Wakims' value for fAIFleeHealthMult is 56, NPC Functionality's is 20. IMO, lower the better for this value
 ;[Order]
 ;FleeAIFixes.esp
